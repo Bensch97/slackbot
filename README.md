@@ -6,4 +6,4 @@ Then you'll want to install the packages listed in the requirements.txt, do it l
 
 $ pip install -r requirements.txt
 
-This is a slackbot for the user "Gasoline Chugger" it does few things and it does them well, one of those being chugging gas. Go ahead and tell it "chug gas" and see how he goes. Really impressive stuff there.
+This is a slackbot for the user "Gasoline Chugger" it does few things and it does them well, one of those being chugging gas. Go ahead and tell it "chug gas" and see how he goes. Really impressive stuff there. Tell it "self-immolate" and watch him burn!
